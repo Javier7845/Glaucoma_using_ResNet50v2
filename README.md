@@ -16,3 +16,11 @@ Once the images have been processed, open the notebook that contains all the cod
     |——Sus_G
 ```
 2. Execute all the lines until training the model.
+
+Databases
+Bases de datos del fondo de la retina del ojo estan disponibles en internet bajo acceso libre o pedido.
+## Base de datos de acceso libre:
+https://github.com/cvblab/retina_dataset
+## Base de datos de acceso bajo pedido
+https://github.com/smilell/AG-CNN
+https://odir2019.grand-challenge.org/dataset/
