@@ -17,8 +17,8 @@ Once the images have been processed, open the notebook that contains all the cod
 ```
 2. Execute all the lines until training the model.
 
-Databases
-Bases de datos del fondo de la retina del ojo estan disponibles en internet bajo acceso libre o pedido.
+## Databases
+Databases of the fundus of the retina of the eye are available on the Internet under free access or on request.
 ## Base de datos de acceso libre:
 https://github.com/cvblab/retina_dataset
 ## Base de datos de acceso bajo pedido
