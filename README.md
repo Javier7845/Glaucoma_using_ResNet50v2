@@ -1,4 +1,5 @@
-Before replicating the results, the images to be trained must be pre-processed with the .m file in Matlab.
+This repository contains both the code to pre-process the images and the code to train the Keras ResNet-50v2 neural network in the task of detecting glaucoma in retinal fundus images.
+First, the images to be trained must be pre-processed with the script *Code_matlab.m* in Matlab.
 ## Steps:
 1. Open Matlab and run the script. A window will appear in which you will be asked to select the directory where the images to be processed are located.
 2. Another window will appear in which you will have to select the format of the images to be processed.
