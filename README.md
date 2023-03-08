@@ -10,7 +10,7 @@ Once the images have been processed, open the notebook that contains all the cod
 ## Steps:
 1. Upload the folder with all the images to train. The directory should look like this:
 ```
-|——All_data
+|——all_data
     |——Non_D
     |——Sus_G
 ```
