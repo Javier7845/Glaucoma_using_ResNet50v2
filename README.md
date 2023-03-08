@@ -19,9 +19,9 @@ Once the images have been processed, open the notebook that contains all the cod
 
 ## Databases
 Databases of the fundus of the retina of the eye are available on the Internet under free access or on request.
-## Base de datos de acceso libre:
+## Free access:
 https://github.com/cvblab/retina_dataset
-## Base de datos de acceso bajo pedido
+## Access upon request:
 https://github.com/smilell/AG-CNN
 
 https://odir2019.grand-challenge.org/dataset/
