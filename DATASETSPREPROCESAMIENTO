@@ -1,0 +1,21 @@
+# ---------------------------
+All image
+# ---------------------------
+		HRF			LAG			ODIR			Sjchoi
+		Non_D	Sus_G		Non_D	Sus_G		Non_D	Sus_G		Non_D	Sus_G
+Cropear		x	x		x	x		x	x		x	x
+L-C-N-G-0.5	x	x		x	x		x	x		x	x
+L-C-N-G-0.8	
+Resize		
+PNG-0.5		x	x		x	x		x	x		x	x
+PNG-0.8												
+# ---------------------------
+Disk image
+# ---------------------------
+		HRF			LAG			ODIR			Sjchoi
+		Non_D	Sus_G		Non_D	Sus_G		Non_D	Sus_G		Non_D	Sus_G
+Cropear		x	x		x	x		x	x		x	x
+L-C-N-G-0.5		
+L-C-N-G-0.8		
+Resize		
+PNG
